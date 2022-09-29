@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://github.com/Bekircayir/Weiterbildung/blob/main/Images/Refugeeks.jpg" width="600" height="300"/>
+  <img src="https://github.com/Bekircayir/Weiterbildung/blob/main/Images/Refugeeks.jpg" />
 </div>
 
 # Abschlusszertifikat (Hochschule Hannover / IHK Hannover): 
