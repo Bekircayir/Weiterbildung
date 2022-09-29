@@ -116,3 +116,8 @@ __16: Shop-Systeme__
 
 __17: Agiles Web-Programmierprojekt__
 -	Website Challenge: Kleingruppen treten gegeneinander an, um eine Website aus einem sich dynamisch verändernden Informationsangebot zu gestalten.
+
+
+<div align="center">
+  <img src="https://github.com/Bekircayir/Weiterbildung/blob/main/Images/Unsere%20Termine.JPG" />
+  
