@@ -1,8 +1,12 @@
 
 <div align="center">
   <img src="https://github.com/Bekircayir/Weiterbildung/blob/main/Images/Refugeeks.jpg" />
+  
+  <br>
+  <br>
 </div>
 
+---
 # Abschlusszertifikat (Hochschule Hannover / IHK Hannover): 
 
 ## IT-Experte Data Science / Web Technology 
