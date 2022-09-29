@@ -17,44 +17,50 @@ Das Curriculum besteht aus zwei Bereichen: Data Science und Web Technology. Jede
 Der Bereich Data Science ist in drei grundlegende Blöcke zur Programmierausbildung mit integrierter Einführung in den Bereich Data Science (DS-Intro) aufgebaut. Er folgt im Wesentlichen einem bewährten Konzept der amerikanischen Instruktoren Deitel (Deitel.com), die über jahrzehntelange Erfahrung in der Konzeption und Bereitstellung von Materialien für die Programmierausbildung verfügen.
 
 __Der Gesamtbereich Data Science umfasst folgende Module und Techniken, wobei die Nummer jeweils den Platz in der Reihenfolge des Curriculums angibt:__
+
 __1: Agiles Projektmanagement, Versionierung__
 -	Einführung in agiles Arbeiten mit SCRUM
 -	Management von Lernprozessen mit EDUSCRUM
 -	Social Intranet, Kommunikation im Team (Slack)
 -	Gemeinsam Software entwickeln (Git) 
+
 __2: Python Grundlagen Quickstart (Python I)__
 -	Einführung in die Python-Programmierun
-  --	DS-Intro: Grundlegende Deskriptive Statistik
+
+    -	DS-Intro: Grundlegende Deskriptive Statistik
 -	Kontrollstrukturen und Programmentwicklung
---	DS-Intro: Lagemaße (Mittelwert, Median, Modus)
+
+    -	DS-Intro: Lagemaße (Mittelwert, Median, Modus)
 -	Funktionen
---	DS-Intro: Streumaße und weitere statistische Kenngrößen
+
+    -	DS-Intro: Streumaße und weitere statistische Kenngrößen
 -	Sequenzen: Listen und Tupel
---	DS-Intro: Simulation und statische Visualisierung 
+
+    -	DS-Intro: Simulation und statische Visualisierung 
 
 __3: Python Datenstrukturen (Python II)__
 -	Dictionaries und Mengen
---	DS-Intro: Simulation und dynamische Visualisierung
+    -	DS-Intro: Simulation und dynamische Visualisierung
 -	Array-orientierte Programmierung mit NumPy
---	DS-Intro: Pandas Series und DataFrames
+    -	DS-Intro: Pandas Series und DataFrames
 -	Strings: Ein tieferer Einblick inklusive Reguläre Ausdrücke
---	DS-Intro: Pandas, Reguläre Ausdrücke und Data Wrangling
+    -	DS-Intro: Pandas, Reguläre Ausdrücke und Data Wrangling
 -	Dateien und Exception-Handling
---	DS-Intro: Handling von CSV-Dateien in Pandas DataFrames
+    -	DS-Intro: Handling von CSV-Dateien in Pandas DataFrames
 
  
 __4: Objektorientierung und Computational Thinking (Python III)__
 -	Objektorientierte Programmierung mit Python
---	DS-Intro: Zeitreihen und einfache Lineare Regression
+    -	DS-Intro: Zeitreihen und einfache Lineare Regression
 -	Rekursion, Such- und Sortieralgorithmen und Big O
 
 __11: Natural Language Processing (NLP)__
 -	TextBlob-Libary
---	Part-of-Speech Tagging
+    -	Part-of-Speech Tagging
 --	Sentiment Analysis
---	Stemming und Lemmatisierung
+    -	Stemming und Lemmatisierung
 --	Visualisierung von Worthäufigkeiten
---	WebScraping als Übung
+    -	WebScraping als Übung
 
 __12: Machine Learning I__
 -	Überwachte Verfahren zur Klassifikation und Regression (scikit-learn) 
@@ -78,7 +84,7 @@ __18: Agiles Programmierprojekt Data Science__
 __5: Grundlagen der Webentwicklung: Statische Websites (Webtechnologien 1)__
 -	Technische Grundlagen des Internet: Netzwerkarchitekturen, -kommunikation, -prozesse und -protokolle (HTTP, SOAP, REST, Webserver (Apache/Nginx), ...)
 -	Dokumentstrukturierung mit HTML5
---	HTML Frameworks (Bootstrap)
+    -	HTML Frameworks (Bootstrap)
 -	Layout und Formatierung mit CSS
 -	Grundlagen zu JavaScript
 
@@ -100,8 +106,8 @@ __8: Content Management Systems__
 __9: User Interfaces, User Experience Design (UXD)__
 -	Grundlagen zu UXD, Usability und Interaktionsdesign
 -	Methoden und Werkzeuge für Frontendkonzeption/-entwicklung
---	Responsive Webdesign (endgerätunabhängige Webentwicklung), „Mobile First“, „Mobile Only“, ...
---	Mockups, Wireframing, Prototyping 
+    -	Responsive Webdesign (endgerätunabhängige Webentwicklung), „Mobile First“, „Mobile Only“, ...
+    -	Mockups, Wireframing, Prototyping 
 
 __10: Frontend-Programmierung mit JavaScript__
 -	JavaScript-Anwendungsfälle und -Bibliotheken 
@@ -120,4 +126,4 @@ __17: Agiles Web-Programmierprojekt__
 
 <div align="center">
   <img src="https://github.com/Bekircayir/Weiterbildung/blob/main/Images/Unsere%20Termine.JPG" />
-  
+</div>  
